@@ -15,3 +15,16 @@ Objectives achieved through these projects:
 • Make use of existing deep learning libraries for training and testing 
 • Apply deep learning to a real-world problem and present associated research
 and results in the form of a presentation and conference-style paper.
+
+Concepts used:
+
+Gradient-based Learning,
+Chaining Gradients and Perceptrons,
+Artifical Neural Networks (ANNs),
+Convolutional Neural Networks (CNNs),
+ML APIs,
+Markov Systems (HMMs),
+Recurrent Neural Network (RNNs),
+Long-Short-Term Memory networks (LSTMs),
+Auto-Encoders,
+and Generative Adversarial Networks (GANs).
